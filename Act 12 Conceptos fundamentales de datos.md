@@ -1,3 +1,5 @@
+¡Hola! Vamos a abordar esta sesión orientada a estudiantes de tercer semestre. Como docente, estructuraremos la clase bajo un enfoque **Basado en Problemas (ABP)**, conectando la teoría con código práctico en Python.
+
 ---
 
 ## 1. Explicación Didáctica de Conceptos
