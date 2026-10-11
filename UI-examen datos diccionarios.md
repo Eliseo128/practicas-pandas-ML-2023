@@ -269,3 +269,276 @@ datos_parques = {
     "Visitantes_anio": [3500000, 2500000, 1800000, 20000000, 10000000, 5500000]
 }
 ```
+Aquí tienes los 30 ejemplos restantes con numeración par (del 2 al 60), cada uno con 3 claves y 6 valores por lista:
+
+# No 2 Datos de cursos online.
+```python
+datos_cursos = {
+    "Curso": ["Python", "JavaScript", "Java", "C++", "Ruby", "PHP"],
+    "Duracion_horas": [40, 35, 50, 60, 30, 45],
+    "Inscritos": [1200, 980, 750, 540, 320, 680]
+}
+```
+
+# No 4 Datos de proyectos.
+```python
+datos_proyectos = {
+    "Proyecto": ["Web", "App", "Marketing", "Investigación", "Diseño", "Consultoría"],
+    "Presupuesto": [50000, 80000, 30000, 120000, 25000, 45000],
+    "Integrantes": [5, 8, 4, 10, 3, 6]
+}
+```
+
+# No 6 Datos de clientes.
+```python
+datos_clientes = {
+    "Cliente": ["Empresa A", "Empresa B", "Empresa C", "Empresa D", "Empresa E", "Empresa F"],
+    "Sector": ["Tecnología", "Salud", "Educación", "Retail", "Banca", "Construcción"],
+    "Facturacion": [500000, 320000, 180000, 420000, 650000, 280000]
+}
+```
+
+# No 8 Datos de proveedores.
+```python
+datos_proveedores = {
+    "Proveedor": ["Distribuidora X", "Mayorista Y", "Importadora Z", "Local A", "Nacional B", "Global C"],
+    "Productos": [150, 230, 80, 45, 120, 300],
+    "Calificacion": [4.5, 4.2, 4.8, 3.9, 4.6, 4.7]
+}
+```
+
+# No 10 Datos de eventos.
+```python
+datos_eventos = {
+    "Evento": ["Conferencia", "Taller", "Seminario", "Congreso", "Simposio", "Foro"],
+    "Asistentes": [500, 150, 300, 800, 250, 400],
+    "Duracion_dias": [3, 1, 2, 5, 2, 4]
+}
+```
+
+# No 12 Datos de habitaciones de hotel.
+```python
+datos_habitaciones = {
+    "Habitacion": ["Sencilla", "Doble", "Suite", "Familiar", "Presidencial", "Junior"],
+    "Capacidad": [2, 3, 4, 6, 2, 3],
+    "Precio_noche": [800, 1200, 3500, 2000, 8000, 1800]
+}
+```
+
+# No 14 Datos de vuelos.
+```python
+datos_vuelos = {
+    "Vuelo": ["AM 401", "VB 102", "Y4 305", "AM 607", "VB 208", "Y4 509"],
+    "Destino": ["Cancún", "Guadalajara", "Monterrey", "Tijuana", "Mérida", "Puerto Vallarta"],
+    "Precio": [2500, 1800, 2200, 2800, 2100, 2400]
+}
+```
+
+# No 16 Datos de recetas.
+```python
+datos_recetas = {
+    "Receta": ["Mole", "Pozole", "Tamales", "Enchiladas", "Chiles en nogada", "Birria"],
+    "Ingredientes": [25, 12, 8, 10, 18, 15],
+    "Tiempo_min": [120, 90, 60, 45, 150, 180]
+}
+```
+
+# No 18 Datos de canciones.
+```python
+datos_canciones = {
+    "Cancion": ["Cielito Lindo", "La Llorona", "Bésame Mucho", "Guadalajara", "Mexico Lindo", "Volver Volver"],
+    "Artista": ["Varios", ["Chavela Vargas", "Luis Miguel", "Pedro Infante", "Jorge Negrete", "Vicente Fernández"]],
+    "Duracion_min": [3.5, 4.2, 3.8, 3.0, 3.3, 4.0]
+}
+```
+
+# No 20 Datos de artistas.
+```python
+datos_artistas = {
+    "Artista": ["Frida Kahlo", "Diego Rivera", "Rufino Tamayo", "David Siqueiros", "José Orozco", "Gerardo Murillo"],
+    "Movimiento": ["Surrealismo", "Muralismo", "Modernismo", "Muralismo", "Muralismo", "Paisajismo"],
+    "Obras": [143, 250, 180, 200, 120, 95]
+}
+```
+
+# No 22 Datos de museos.
+```python
+datos_museos = {
+    "Museo": ["Antropología", "Tamayo", "Soumaya", "Palacio Bellas Artes", "San Carlos", "Amparo"],
+    "Salas": [23, 12, 20, 15, 18, 16],
+    "Visitantes_anio": [2500000, 800000, 1500000, 1200000, 400000, 350000]
+}
+```
+
+# No 24 Datos de teatros.
+```python
+datos_teatros = {
+    "Teatro": ["Metropolitan", "Lunario", "Teatro de los Insurgentes", "Hidalgo", "Esperanza Iris", "De la Ciudad"],
+    "Capacidad": [3000, 900, 2500, 1500, 1200, 800],
+    "Funciones_mes": [25, 20, 18, 22, 15, 12]
+}
+```
+
+# No 26 Datos de conciertos.
+```python
+datos_conciertos = {
+    "Concierto": ["Rock en Español", "Banda", "Norteño", "Pop", "Electrónica", "Clásica"],
+    "Asistentes": [15000, 8000, 12000, 20000, 25000, 3000],
+    "Duracion_horas": [3, 2.5, 3, 2, 4, 2]
+}
+```
+
+# No 28 Datos de ferias.
+```python
+datos_ferias = {
+    "Feria": ["San Marcos", "Oaxaca", "Puebla", "León", "Monterrey", "Guadalajara"],
+    "Dias": [28, 21, 18, 25, 20, 22],
+    "Visitantes": [8000000, 3500000, 2800000, 4500000, 3200000, 2500000]
+}
+```
+
+# No 30 Datos de festivales.
+```python
+datos_festivales = {
+    "Festival": ["Cervantino", "Jazz", "Cine", "Gastronómico", "Cultural", "Musical"],
+    "Artistas": [150, 40, 80, 60, 100, 75],
+    "Dias": [25, 5, 10, 7, 15, 3]
+}
+```
+
+# No 32 Datos de exposiciones.
+```python
+datos_exposiciones = {
+    "Exposicion": ["Arte Moderno", "Fotografía", "Escultura", "Pintura", "Digital", "Contemporánea"],
+    "Obras": [120, 80, 60, 100, 50, 90],
+    "Meses": [3, 2, 2, 4, 1, 3]
+}
+```
+
+# No 34 Datos de galerías.
+```python
+datos_galerias = {
+    "Galeria": ["Arte Actual", "Moderna", "Contemporánea", "Joven", "Alternativa", "Central"],
+    "Artistas": [25, 18, 30, 15, 20, 22],
+    "Exposiciones_anio": [12, 8, 15, 6, 10, 9]
+}
+```
+
+# No 36 Datos de bibliotecas.
+```python
+datos_bibliotecas = {
+    "Biblioteca": ["Vasconcelos", "México", "Lerdo", "Bellas Artes", "Central", "Infantil"],
+    "Libros": [600000, 450000, 280000, 150000, 320000, 50000],
+    "Usuarios_dia": [3500, 2800, 1500, 1200, 2200, 800]
+}
+```
+
+# No 38 Datos de laboratorios.
+```python
+datos_laboratorios = {
+    "Laboratorio": ["Química", "Biología", "Física", "Computación", "Investigación", "Análisis"],
+    "Equipos": [45, 30, 25, 60, 40, 35],
+    "Investigadores": [15, 12, 10, 20, 18, 14]
+}
+```
+
+# No 40 Datos de fábricas.
+```python
+datos_fabricas = {
+    "Fabrica": ["Automotriz", "Alimentos", "Textil", "Electrónica", "Química", "Metalúrgica"],
+    "Empleados": [2500, 1800, 1200, 3000, 900, 1500],
+    "Produccion_diaria": [500, 10000, 2000, 800, 600, 400]
+}
+```
+
+# No 42 Datos de granjas.
+```python
+datos_granjas = {
+    "Granja": ["El Porvenir", "La Esperanza", "San José", "Los Pinos", "El Rosario", "Santa María"],
+    "Hectareas": [50, 80, 35, 120, 65, 45],
+    "Animales": [500, 800, 300, 1200, 600, 400]
+}
+```
+
+# No 44 Datos de minas.
+```python
+datos_minas = {
+    "Mina": ["La Caridad", "Buenavista", "Peñasquito", "Fresnillo", "Canoa", "El Sauzal"],
+    "Trabajadores": [3500, 4200, 2800, 1800, 900, 600],
+    "Produccion_ton": [150000, 180000, 120000, 80000, 45000, 30000]
+}
+```
+
+# No 46 Datos de puertos.
+```python
+datos_puertos = {
+    "Puerto": ["Veracruz", ["Manzanillo", "Lázaro Cárdenas", "Altamira", "Progreso", "Ensenada"]],
+    "Buques_mes": [450, 380, 320, 280, 150, 200],
+    "Contenedores_anio": [1500000, 1200000, 900000, 700000, 400000, 500000]
+}
+```
+
+# No 48 Datos de aeropuertos.
+```python
+datos_aeropuertos = {
+    "Aeropuerto": ["AICM", "Cancún", "Guadalajara", "Monterrey", "Tijuana", "Mérida"],
+    "Vuelos_dia": [1200, 450, 380, 320, 250, 180],
+    "Pasajeros_anio": [50000000, 25000000, 15000000, 10000000, 7000000, 4000000]
+}
+```
+
+# No 50 Datos de estaciones de tren.
+```python
+datos_estaciones = {
+    "Estacion": ["Buenavista", "Fortuna", "Lechería", "Toluca", "Insurgentes", "Observatorio"],
+    "Trenes_dia": [80, 60, 50, 45, 70, 55],
+    "Pasajeros_dia": [250000, 180000, 120000, 90000, 200000, 150000]
+}
+```
+
+# No 52 Datos de gasolineras.
+```python
+datos_gasolineras = {
+    "Gasolinera": ["Pemex Centro", ["BP Norte", "Shell Sur", "Total Este", "Mobil Oeste", "Gulf"]],
+    "Bombas": [12, 10, 8, 15, 9, 11],
+    "Litros_dia": [25000, 20000, 18000, 30000, 16000, 22000]
+}
+```
+
+# No 54 Datos de farmacias.
+```python
+datos_farmacias = {
+    "Farmacia": ["San Pablo", "Similares", "Del Ahorro", "Guadalajara", "Benavides", "Del Savings"],
+    "Productos": [8000, 5000, 6500, 7500, 6000, 5500],
+    "Clientes_dia": [1500, 2000, 1800, 1200, 1000, 900]
+}
+```
+
+# No 56 Datos de panaderías.
+```python
+datos_panaderias = {
+    "Panaderia": ["La Espiga", "El Trigal", "Don Pan", "Casa Pan", "Trigo Dorado", "Pan Artesanal"],
+    "Variedades": [45, 30, 50, 35, 40, 25],
+    "Kg_pan_dia": [200, 150, 250, 180, 220, 120]
+}
+```
+
+# No 58 Datos de carnicerías.
+```python
+datos_carnicerias = {
+    "Carniceria": ["El Toro", "La Res", "Don Carnicero", "Meat House", "Carnes Finas", "El Rastro"],
+    "Cortes": [25, 18, 30, 22, 28, 20],
+    "Kg_dia": [300, 200, 400, 250, 350, 180]
+}
+```
+
+# No 60 Datos de floristerías.
+```python
+datos_floristerias = {
+    "Floristeria": ["La Rosa", "Jardín Floral", "Pétalos", "Flores Vivas", "Primavera", "Bouquet"],
+    "Variedades": [35, 25, 40, 30, 28, 20],
+    "Arreglos_dia": [50, 35, 60, 45, 40, 30]
+}
+```
+
+Con estos 30 ejemplos adicionales, completas la serie de 60 diccionarios (30 impares + 30 pares), todos con 3 claves y 6 valores por lista.
